@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Designibl-Mark 
+- :man: Founder of Designibl - Design Studio & Consultancy
+- :computer: I work as a Software Developer & Designer for startups. I have experience ranging from IOT to EV's.
+- :pencil: I’m currently learning react, figma & swiftui
+- :car: I’m currently working with Electric Miles to enable people to charge their EV's smarter and balance the UK grid. 
+- :email: Check out my [polywork profile](www.mhark.co.uk) to reach me

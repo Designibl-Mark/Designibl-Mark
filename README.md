@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mark _@Designibl-Mark_ (He/Him)
 
-## About Me 
+## About Me
 
 :man: Founder of Designibl since 2019 - Technology Design Studio & Consultancy
 

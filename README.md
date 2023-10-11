@@ -4,13 +4,13 @@
 
 :man: Founder of Designibl since 2019 - Technology Design Studio & Consultancy
 
-:computer: I work as an Engineering Manager, Developer & Designer for startups in the UK. I have experience ranging from hospitality & commerce to IOT & EV's 🔌
+:computer: I work as athe VP of Engineering @[SpotShip](https://www.spot-ship.com). Keep an eye out as we are hiring soon!
 
-:pencil: I’m predominantly using Javascript, Figma & SwiftUI at the moment.
+:car: I have experience ranging from hospitality & commerce to IOT & EV's 🔌
 
-:car: I’m currently working with [Andersen EV](https://andersen-ev.com) to enable people to charge their EV's smarter and balance the UK grid ⚡️
+:pencil: I’m predominantly using Typescript, Nextjs, Figma & SwiftUI at the moment.
 
-:book: I'm also creating some tooling for [Faux Books](https://www.fauxbooks.co.uk)
+:book: I have also created some tooling for [Faux Books](https://www.fauxbooks.co.uk)
 
 ## Contact Me
 

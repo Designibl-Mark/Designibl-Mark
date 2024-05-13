@@ -14,4 +14,4 @@
 
 ## Contact Me
 
-:email: Check out my [blog](www.mhark.co.uk) to reach me and find out more.
+:email: Check out my [blog](https://www.mhark.co.uk) to reach me and find out more.

@@ -4,7 +4,7 @@
 
 :man: Founder of Designibl since 2019 - Technology Design Studio & Consultancy
 
-:computer: I work as athe VP of Engineering @[SpotShip](https://www.spot-ship.com). Keep an eye out as we are hiring soon!
+:computer: I work as the CTO @[SpotShip](https://www.spot-ship.com). Keep an eye out as we are hiring soon!
 
 :car: I have experience ranging from hospitality & commerce to IOT & EV's 🔌
 

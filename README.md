@@ -5,9 +5,9 @@
 
 ## About Me
 
-:computer: I work as the CTO @[SpotShip](https://www.spot-ship.com). Keep an eye out as we are hiring soon!
+:man: Founder and CEO of Designibl since 2019 - Technology Design Studio & Consultancy (Back from hiatus in 2025)
 
-:man: Founder of Designibl since 2019 - Technology Design Studio & Consultancy (On Hiatus)
+:computer: I worked as the CTO @[SpotShip](https://www.spot-ship.com).
 
 :car: I have experience ranging from hospitality & commerce to IOT & EV's 🔌
 
